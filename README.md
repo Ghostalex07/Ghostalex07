@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&lines=Cybersecurity+Enthusiast;Linux+Power+User;Secure+Systems+Builder;Always+Learning..." />
+</p>
 <h1 align="center">Hi 👋, I'm Alejandro Blanco</h1>
 <h3 align="center">Computer Engineering Student | Cybersecurity Enthusiast 🔐</h3>
 
