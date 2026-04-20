@@ -39,7 +39,6 @@ Focused on Cybersecurity, secure software architectures, and threat analysis.
 
 ### 🚀 Projects Highlights
 - 🔍 **Phishing Domain Detection** → ML model for detecting malicious domains  
-- 💻 **COBOL Banking System** → Full banking simulation system  
 - 🤖 **AI Deployment Lab** → AI systems deployment experiments  
 - 📥 **YouMuDow** → Multi-threaded YouTube downloader (Python)  
 - 🎯 **Cyber Arena** → Cybersecurity-focused project  
