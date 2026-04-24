@@ -5,7 +5,7 @@
 <h3 align="center">Computer Engineering Student | Cybersecurity Enthusiast 🔐</h3>
 
 <p align="center">
-Madrid, Spain 🇪🇸 | Spanish (Native) / English (Advanced)
+Madrid, Spain | Spanish (Native) / English (Advanced)
 </p>
 
 <p align="center">
