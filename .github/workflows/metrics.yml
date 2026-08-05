@@ -24,10 +24,7 @@ jobs:
           base: ""
           config_order: languages
           plugin_languages: yes
-          plugin_languages_indepth: yes
-          plugin_languages_indepth_custom: Ghostalex07/cobol-hotel, Ghostalex07/CountryApp, Ghostalex07/disgusting, Ghostalex07/Ghostalex07, Ghostalex07/gif-app, Ghostalex07/Mips-Python-Simulator, Ghostalex07/phishing-domain-detection, Ghostalex07/pipes-app, Ghostalex07/Portfolio, Ghostalex07/qr-generator, Ghostalex07/Speed-monitor, Ghostalex07/Web, Ghostalex07/YouMuDow
           plugin_languages_ignored: html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell, gnuplot
           plugin_languages_details: percentage
           plugin_languages_limit: 8
-          commits_authoring: ghostalex07, Alejandro Blanco, al33x007@proton.me, 260620146+Ghostalex07@users.noreply.github.com
           extras_js: "document.querySelector('.items-wrapper > section:first-child')?.remove()"
