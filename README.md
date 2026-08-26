@@ -1,52 +1,22 @@
-<h1 align="center">Alejandro Blanco</h1>
-<h3 align="center">Computer Engineering Student · Backend & Cloud</h3>
+# Hi there! 👋
 
 <p align="center">
-  Madrid, Spain · Spanish (Native) / English (Advanced)
+  I'm Alejandro, a Computer Engineering student passionate about Backend, Cloud, Cybersecurity & building secure systems. I enjoy reimagining projects from scratch, ensuring full control over design and functionality 🚀
+  <br/>Focused on Backend development, Cloud architectures (AWS/Azure), and secure software solutions. Always learning and contributing whenever I can 🐧
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/alejandroblancojimenez/">LinkedIn</a> ·
-  <a href="https://ghostalex07.github.io/Portfolio/">Portfolio</a> ·
-  <a href="mailto:alejandro.b.j.007@gmail.com">Email</a>
-</p>
-
----
-
-Building secure systems & cloud solutions · ML for phishing detection · Python & Angular
-
----
-
-## Technologies
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,angular,nodejs,html,css" alt="Languages" />
-  <br />
-  <img src="https://skillicons.dev/icons?i=docker,linux,aws,git,github,mysql,postgres" alt="Cloud & Tools" />
-</p>
-
----
-
-## Featured Projects
-
-- **YouMuDow** — Cross-platform music & video downloader (Python + yt-dlp) with desktop GUI, CLI, download queue and CI/CD. [Repo](https://github.com/Ghostalex07/YouMuDow)
-- **MIPS Python Simulator** — MIPS processor simulator that executes binary-encoded instructions with register and memory emulation. [Repo](https://github.com/Ghostalex07/Mips-Python-Simulator)
-- **Phishing Domain Detection** — Machine Learning models that detect phishing domains from domain-based features. [Repo](https://github.com/Ghostalex07/phishing-domain-detection)
-- **Speed Monitor** — Real-time internet speed monitoring application. [Repo](https://github.com/Ghostalex07/Speed-monitor)
-- **COBOL Hotel System** — Hotel management system written in COBOL. [Repo](https://github.com/Ghostalex07/cobol-hotel)
-- **Portfolio** — Personal Angular portfolio site. [Live](https://ghostalex07.github.io/Portfolio/) · [Repo](https://github.com/Ghostalex07/Portfolio)
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/Ghostalex07?style=social&label=Followers" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/Ghostalex07?style=social&label=Stars" alt="Stars" />
+Send me a mail to <a href="mailto:alejandro.b.j.007@gmail.com">alejandro.b.j.007@gmail.com</a> and I'll respond whenever I can.
+<br/>Find me on <a href="https://www.linkedin.com/in/alejandroblancojimenez/">LinkedIn</a> or check my <a href="https://ghostalex07.github.io/Portfolio/">Portfolio</a>.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=ghostalex07&theme=dark&hide_border=true&fire=00E676&ring=00E676&sideLabels=00E676&currStreakLabel=00E676" alt="GitHub Streak" />
+  <a><img alt="Ghostalex07's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=ghostalex07&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0d1117&title_color=A594FD&icon_color=A594FD" height="192px"/></a>
+  <a><img alt="Ghostalex07's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ghostalex07&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=A594FD&icon_color=A594FD" height="192px"/></a>
 </p>
 
-![Metrics](github-metrics.svg)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,typescript,angular,nodejs,docker,linux,aws,git" />
+  </a>
+</p>
